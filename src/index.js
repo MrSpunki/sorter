@@ -60,6 +60,7 @@ class Sorter {
             	this.sorter[indices[i]] = temp[i];
             }
         }
+  }
 
   setComparator(compareFunction) {
     // your implementation
